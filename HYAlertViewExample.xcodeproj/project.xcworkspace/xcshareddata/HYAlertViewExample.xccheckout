@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B241580D-891D-4E33-AA59-E25B42278D7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HYAlertViewExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AA1EEFB7-38EA-4FA0-9681-D3AB92D9C289</key>
+		<string>https://github.com/rainbownight/HYAlertViewExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HYAlertViewExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AA1EEFB7-38EA-4FA0-9681-D3AB92D9C289</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rainbownight/HYAlertViewExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AA1EEFB7-38EA-4FA0-9681-D3AB92D9C289</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA1EEFB7-38EA-4FA0-9681-D3AB92D9C289</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HYAlertViewExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>

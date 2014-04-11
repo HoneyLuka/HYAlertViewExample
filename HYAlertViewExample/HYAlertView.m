@@ -473,6 +473,7 @@ const UIWindowLevel level = 1999.f;
                                       ALERT_VIEW_SPACING,
                                       ALERT_VIEW_WIDTH-ALERT_VIEW_SPACING*2,
                                       20)];
+        self.titleLabel.backgroundColor = [UIColor clearColor];
         self.titleLabel.textColor = [UIColor colorWithHexString:@"575256"];
         self.titleLabel.textAlignment = NSTextAlignmentCenter;
         self.titleLabel.font = [UIFont boldSystemFontOfSize:16.f];
@@ -497,6 +498,7 @@ const UIWindowLevel level = 1999.f;
                                         ALERT_VIEW_SPACING*2+20,
                                         ALERT_VIEW_WIDTH-ALERT_VIEW_SPACING*2,
                                         height)];
+        self.messageLabel.backgroundColor = [UIColor clearColor];
         self.messageLabel.textColor = [UIColor colorWithHexString:@"7C8487"];
         self.messageLabel.textAlignment = NSTextAlignmentCenter;
         self.messageLabel.font = ALERT_VIEW_MESSAGE_FONT;
